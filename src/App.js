@@ -1,6 +1,6 @@
 import './App.scss';
 import { Outlet } from "react-router-dom"
-import AppHeader from "./Components/header/AppHeader";
+import AppHeader from "./Components/Header/AppHeader";
 
 function App() {
   return (

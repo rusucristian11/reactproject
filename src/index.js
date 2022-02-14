@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './Components/index.scss';
+import './index.scss';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {BrowserRouter, Route, Routes} from "react-router-dom";
-import ToDoApp from "./Components/toDoComponent/ToDoApp";
+import ToDoApp from "./Components/ToDoComponent/ToDoApp";
 import CalculatorApp from "./Components/CalculatorApp/CalculatorApp";
 
 ReactDOM.render(
